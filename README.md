@@ -1,4 +1,4 @@
-# -Processing-Assignment-Giant-Cat-at-Sea
+# Processing-Assignment-Giant-Cat-at-Sea
 
 This is an interactive mini-assignment written by PROCESSING, which contains the following modules.
 这是一个processing写的互动小作业，它包含以下模块。
